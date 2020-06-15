@@ -17,3 +17,7 @@ Chatbots arround and famous platforms and frameworks   - https://medium.com/@ash
 USA covid -19 and live data  -  https://medium.com/@ashaicy99/usa-cvoid-19-live-data-afed58a4fdbc
 
 Lets Explore Timeseries  - https://medium.com/@ashaicy/lets-explore-time-series-e9d56e1d647b
+
+Pyhton strings interview questions - https://medium.com/@ashaicy/python-strings-interview-questions-6ae18b32a723
+
+
