@@ -20,4 +20,6 @@ Lets Explore Timeseries  - https://medium.com/@ashaicy/lets-explore-time-series-
 
 Pyhton strings interview questions - https://medium.com/@ashaicy/python-strings-interview-questions-6ae18b32a723
 
+Python filters and user defined functions - https://medium.com/@ashaicy/python-filters-with-user-defined-functions-a5f54db62015
+
 
