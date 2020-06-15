@@ -22,6 +22,9 @@ Pyhton strings interview questions - https://medium.com/@ashaicy/python-strings-
 
 Python filters and user defined functions - https://medium.com/@ashaicy/python-filters-with-user-defined-functions-a5f54db62015
 
+Pyhton challenges - https://medium.com/@ashaicy/python-challenges-7a431bf4db6c
+
+
 Pyhton challenges series 2  - https://medium.com/@ashaicy/python-challenges-820af3dbf8d5
 
 
