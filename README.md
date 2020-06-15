@@ -15,3 +15,5 @@ Difference between statistical modeling and MLmodeling - https://medium.com/@ash
 Chatbots arround and famous platforms and frameworks   - https://medium.com/@ashaicy99/chatbots-around-us-and-famous-platforms-and-frameworks-a53daea553bf
 
 USA covid -19 and live data  -  https://medium.com/@ashaicy99/usa-cvoid-19-live-data-afed58a4fdbc
+
+Lets Explore Timeseries  - https://medium.com/@ashaicy/lets-explore-time-series-e9d56e1d647b
