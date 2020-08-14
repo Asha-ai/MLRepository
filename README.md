@@ -27,6 +27,8 @@ Pyhton challenges - https://medium.com/@ashaicy/python-challenges-7a431bf4db6c
 
 Pyhton challenges series 2  - https://medium.com/@ashaicy/python-challenges-820af3dbf8d5
 
+ML Model serverless Deployment - https://medium.com/@ashaicy99/machine-learning-model-deployment-748e0c2437b8
+
 
 
 
