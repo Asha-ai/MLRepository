@@ -29,6 +29,9 @@ Pyhton challenges series 2  - https://medium.com/@ashaicy/python-challenges-820a
 
 ML Model serverless Deployment - https://medium.com/@ashaicy99/machine-learning-model-deployment-748e0c2437b8
 
+Chatbot for Education & Training - https://medium.com/@ashaicy99/chat-bots-for-education-training-institutes-b257e84e82b5?sk=5a978ddbf9865275b334e74c7bb15f9a
+
+
 
 
 
