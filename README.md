@@ -1,3 +1,5 @@
+# ML and DL Model Serialization and Deserialization
+https://medium.com/@ashaicy/serialization-and-deserialization-techniques-in-python-deserialization-69beed1ed3ef?sk=bd263243db7516e1562539748b8b0462
 
 # My Blogs at Medium
 ## Working with python PDF,Doc,Zip,Images,PPT etc   
