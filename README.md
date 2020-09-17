@@ -1,3 +1,6 @@
+#Text Summarization using Transfer learning
+https://medium.com/@ashaicy99/text-summation-using-transfer-learning-160fa52e10d6
+
 # ML and DL Model Serialization and Deserialization
 https://medium.com/@ashaicy/serialization-and-deserialization-techniques-in-python-deserialization-69beed1ed3ef?sk=bd263243db7516e1562539748b8b0462
 
