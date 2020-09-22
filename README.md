@@ -1,4 +1,7 @@
-#Text Summarization using Transfer learning
+# Text Summarization using spaCy
+https://medium.com/@ashaicy99/text-summarization-using-spacy-5d3096304786
+
+# Text Summarization using Transfer learning
 https://medium.com/@ashaicy99/text-summation-using-transfer-learning-160fa52e10d6
 
 # ML and DL Model Serialization and Deserialization
