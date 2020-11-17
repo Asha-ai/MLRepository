@@ -2,6 +2,21 @@
 
 # Me@KDnuggets  - https://www.kdnuggets.com/2020/09/machine-learning-model-deployment.html
 
+## Working with Google Sheets, Maps & Gmail
+https://ashaicy99.medium.com/working-with-google-sheets-maps-gmail-af097aa1b9b5
+
+## Where “Recall” is important than "Accuracy”?
+https://ashaicy99.medium.com/where-recall-is-important-than-accuracy-f06d3ced0c67
+
+## What about you?
+https://ashaicy99.medium.com/what-about-you-bae6c586d98d
+
+## Word Sense Disambiguation (WSD)Series-2
+https://ashaicy99.medium.com/word-sense-disambiguation-wsd-series-2-641542d05ca0
+
+## Word Sense Disambiguation (WSD)Series-1
+https://ashaicy99.medium.com/word-sense-disambiguation-wsd-series-1-454b9eeba560
+
 ## Text Summarization using spaCy
 https://medium.com/@ashaicy99/text-summarization-using-spacy-5d3096304786
 
