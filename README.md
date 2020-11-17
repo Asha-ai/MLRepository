@@ -2,13 +2,13 @@
 
 # Me@KDnuggets  - https://www.kdnuggets.com/2020/09/machine-learning-model-deployment.html
 
-# Text Summarization using spaCy
+## Text Summarization using spaCy
 https://medium.com/@ashaicy99/text-summarization-using-spacy-5d3096304786
 
-# Text Summarization using Transfer learning
+## Text Summarization using Transfer learning
 https://medium.com/@ashaicy99/text-summation-using-transfer-learning-160fa52e10d6
 
-# ML and DL Model Serialization and Deserialization
+## ML and DL Model Serialization and Deserialization
 https://medium.com/@ashaicy/serialization-and-deserialization-techniques-in-python-deserialization-69beed1ed3ef?sk=bd263243db7516e1562539748b8b0462
 
 ## Working with python PDF,Doc,Zip,Images,PPT etc   
