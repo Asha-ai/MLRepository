@@ -1,3 +1,7 @@
+# My Blog @KDnuggets
+serverless deploymnet
+https://www.kdnuggets.com/2020/09/machine-learning-model-deployment.html
+
 # Text Summarization using spaCy
 https://medium.com/@ashaicy99/text-summarization-using-spacy-5d3096304786
 
