@@ -1,6 +1,6 @@
-# My Blog @KDnuggets
-serverless deploymnet
-https://www.kdnuggets.com/2020/09/machine-learning-model-deployment.html
+# Me@Medium - https://ashaicy99.medium.com/
+
+# Me@KDnuggets  - https://www.kdnuggets.com/2020/09/machine-learning-model-deployment.html
 
 # Text Summarization using spaCy
 https://medium.com/@ashaicy99/text-summarization-using-spacy-5d3096304786
@@ -11,7 +11,6 @@ https://medium.com/@ashaicy99/text-summation-using-transfer-learning-160fa52e10d
 # ML and DL Model Serialization and Deserialization
 https://medium.com/@ashaicy/serialization-and-deserialization-techniques-in-python-deserialization-69beed1ed3ef?sk=bd263243db7516e1562539748b8b0462
 
-# My Blogs at Medium
 ## Working with python PDF,Doc,Zip,Images,PPT etc   
 https://medium.com/@ashaicy99/working-with-pdf-docs-zip-images-ppt-in-python-c742a24e93e4
 
