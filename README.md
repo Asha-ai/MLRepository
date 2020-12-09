@@ -73,8 +73,17 @@ https://medium.com/@ashaicy99/chat-bots-for-education-training-institutes-b257e8
 
 ### Opportunities for Data Science in Telecommunications 
 https://medium.com/@ashaicy/opportunities-for-data-science-in-telecommunications-6e3c89eefa1d
+ 
+### Deploy models for prediction using HTTP Endpoint
+#### 1.Webhosting Frameworks - Flask,Django
+#### 2.Serverless Compute - aws lambda, Goole Cloud Functions, Azure Functions
+#### 3.CloudPlatformSpecificFrame Works - aws sagemaker, Google AI Platform, AzureMLService
 
-### Flask ML Deployment - Be a fullstack datascientist
-Deploy the machine learning models in Flask web frame work and test the end point in POSTMAN
+
+1. Deploy the machine learning models in Flask web frame work and test the end point in POSTMAN
+Folder Details 
+iris - Deploy IRIS modle using Flask
+titanic-modeldeployment-Flask - Deploy Titanic model using Flask
+
 
 
