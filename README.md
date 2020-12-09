@@ -1,6 +1,6 @@
-# Me@Medium - https://ashaicy99.medium.com/
+## Me@Medium - https://ashaicy99.medium.com/
 
-# Me@KDnuggets  - https://www.kdnuggets.com/2020/09/machine-learning-model-deployment.html
+## Me@KDnuggets  - https://www.kdnuggets.com/2020/09/machine-learning-model-deployment.html
 
 ## Working with Google Sheets, Maps & Gmail
 https://ashaicy99.medium.com/working-with-google-sheets-maps-gmail-af097aa1b9b5
@@ -73,4 +73,8 @@ https://medium.com/@ashaicy99/chat-bots-for-education-training-institutes-b257e8
 
 ## Opportunities for Data Science in Telecommunications 
 https://medium.com/@ashaicy/opportunities-for-data-science-in-telecommunications-6e3c89eefa1d
+
+## Flask ML Deployment - Be a fullstack datascientist
+Deploy the machine learning models in Flask web frame work and test the end point in POSTMAN
+
 
