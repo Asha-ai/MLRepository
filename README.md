@@ -77,4 +77,4 @@ https://medium.com/@ashaicy/opportunities-for-data-science-in-telecommunications
 ## Flask ML Deployment - Be a fullstack datascientist
 Deploy the machine learning models in Flask web frame work and test the end point in POSTMAN
 
-
+-
