@@ -84,6 +84,9 @@ https://medium.com/@ashaicy/opportunities-for-data-science-in-telecommunications
 Folder Details 
 iris - Deploy IRIS modle using Flask
 titanic-modeldeployment-Flask - Deploy Titanic model using Flask
+![iris-postman](https://user-images.githubusercontent.com/66937023/101628759-4aae7100-3a46-11eb-9d07-b44e3b687037.PNG)
+
+
 
 
 
