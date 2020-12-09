@@ -82,10 +82,16 @@ https://medium.com/@ashaicy/opportunities-for-data-science-in-telecommunications
 
 1. Deploy the machine learning models in Flask web frame work and test the end point in POSTMAN
 Folder Details 
-iris - Deploy IRIS modle using Flask
-titanic-modeldeployment-Flask - Deploy Titanic model using Flask
+* iris - Deploy IRIS modle using Flask
+* titanic-modeldeployment-Flask - Deploy Titanic model using Flask
+
+Postman Image for testing iris api
+
 ![iris-postman](https://user-images.githubusercontent.com/66937023/101628759-4aae7100-3a46-11eb-9d07-b44e3b687037.PNG)
 
+
+Postman Image for testing titanic api
+![titanic-postman-test](https://user-images.githubusercontent.com/66937023/101629980-30759280-3a48-11eb-878d-67136319a9af.PNG)
 
 
 
