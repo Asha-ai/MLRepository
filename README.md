@@ -2,9 +2,7 @@
 
 ### Me@KDnuggets  - https://www.kdnuggets.com/2020/09/machine-learning-model-deployment.html
 
-### Me@Analytical Vidhaya - serverless Deployment - Related Blog - https://www.analyticsvidhya.com/blog/2020/12/machine-learning-model-serverless-deployment/
-
-### Deploy ML model using Flaks - https://ashaicy99.medium.com/ml-model-deployment-7c06091aa0e0
+### Deploy ML model using Flaks - https://www.analyticsvidhya.com/blog/author/asha05/
 
 ### Working with Google Sheets, Maps & Gmail
 https://ashaicy99.medium.com/working-with-google-sheets-maps-gmail-af097aa1b9b5
@@ -77,6 +75,22 @@ https://medium.com/@ashaicy99/chat-bots-for-education-training-institutes-b257e8
 
 ### Opportunities for Data Science in Telecommunications 
 https://medium.com/@ashaicy/opportunities-for-data-science-in-telecommunications-6e3c89eefa1d
+
+
+### Deploy static website in HEROKU using PHP wrapper
+https://mystaticwebsite-link.herokuapp.com/index.html
+data - used my blogs links to crete website
+
+
+# ML Model Deployment projects using Flask
+### Deploy sms spam using flask
+repository name - deploy-sms-spam-detection
+https://deploy-sms-spam.herokuapp.com/
+data- https://www.kaggle.com/uciml/sms-spam-collection-dataset
+
+### Deploy Movie recomendation app
+https://movie-recomendation-system-fsk.herokuapp.com/
+data -  https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
  
 ### Deploy models for prediction using HTTP Endpoint
 #### 1.Webhosting Frameworks - Flask,Django
