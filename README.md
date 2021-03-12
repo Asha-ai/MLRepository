@@ -77,9 +77,9 @@ https://medium.com/@ashaicy99/chat-bots-for-education-training-institutes-b257e8
 https://medium.com/@ashaicy/opportunities-for-data-science-in-telecommunications-6e3c89eefa1d
 
 
-#### Deploy static website in HEROKU using PHP wrapper
+### Deploy static website in HEROKU using PHP wrapper
 https://mystaticwebsite-link.herokuapp.com/index.html
-data - used my blogs links to crete website
+html code - https://github.com/Asha-ai/deploy-static-website.git
 
 
 ### ML Model Deployment projects using Flask
