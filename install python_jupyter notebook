@@ -1,0 +1,9 @@
+# install python
+https://www.python.org/downloads/release/python-390/
+
+# Install jupyter
+https://mas-dse.github.io/startup/anaconda-windows-install/#anaconda
+
+# open anaconda prompt in cmd prompt
+pip3 install jupyter
+
