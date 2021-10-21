@@ -117,5 +117,11 @@ Postman Image for testing titanic api
 ![titanic-postman-test](https://user-images.githubusercontent.com/66937023/101629980-30759280-3a48-11eb-878d-67136319a9af.PNG)
 
 
+###colabs ML algs
+https://colab.research.google.com/drive/1EAYRT21sWBeW_UYARI_OQtiRnh8b-9aT?usp=sharing
+
+
+
+
 
 
